@@ -1,1 +1,2 @@
 # Student-mental-health
+This dataset was taken from kaggle which was gathered through a Google Forms survey given to university students to assess their mental and intellectual well-being at the moment. I am trying to predict if the student will have depression or not on the basis of their academic performance.Firstly, I understand the dataset very well and then I do visualization to get better understanding. Then through ml modelling, I found that random forest give better accuracy among all ml models. 
